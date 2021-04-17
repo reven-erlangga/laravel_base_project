@@ -1,0 +1,1 @@
+<a href="{{ route($show, $model) }}" class="text-primary">{{ $name }}</a>
